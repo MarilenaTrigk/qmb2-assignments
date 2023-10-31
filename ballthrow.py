@@ -1,3 +1,4 @@
+#Download functions
 import math
 h=float(input("Enter the initial height: "))
 v_0=float(input("Enter the initial speed: "))
